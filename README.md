@@ -24,8 +24,12 @@ This is an AI-powered Call Bot that utilizes Natural Language Processing (NLP) a
 git clone https://github.com/your-username/ai-call-bot.git
 cd ai-call-bot
 ```
+### 2. Install all dependencies
+```bash
+pip install -r requirements.txt
+```
 
-### 2. Run the Application
+### 3. Run the Application
 Start the AI Call Bot:
 ```bash
 python main.py
