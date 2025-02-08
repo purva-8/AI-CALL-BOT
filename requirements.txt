@@ -1,0 +1,6 @@
+Flask
+SpeechRecognition
+gTTS
+pygame
+pymongo
+google-generativeai
