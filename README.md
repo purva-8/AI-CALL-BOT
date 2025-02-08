@@ -21,7 +21,7 @@ This is an AI-powered Call Bot that utilizes Natural Language Processing (NLP) a
 
 ### 1. Clone the Repository
 ```bash
-https://github.com/purva-8/AI-CALL-BOT.git
+git clone https://github.com/purva-8/AI-CALL-BOT.git
 cd AI-CALL-BOT
 ```
 ### 2. Install all dependencies
